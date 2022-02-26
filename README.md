@@ -12,7 +12,7 @@ number of parts in bigger boxes.
 { The boxes can not be partially filled. They are either full or empty.
 
 
-• Rules:
+Rules:
 1. The robot must fill up bigger boxes before filling up smaller ones. In this case,
 the robot has to fill up XL boxes first, then L boxes, then M boxes, and finally S
 boxes.
