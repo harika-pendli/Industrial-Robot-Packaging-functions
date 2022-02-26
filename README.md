@@ -10,6 +10,8 @@ number of parts in bigger boxes.
 * Max number of parts: 5 (S), 16 (M), 20 (L), 25 (XL): Valid.
 * Max number of parts: 15 (S), 10 (M), 20 (L), 25 (XL): Invalid: S>M.
 { The boxes can not be partially filled. They are either full or empty.
+
+
 • Rules:
 1. The robot must fill up bigger boxes before filling up smaller ones. In this case,
 the robot has to fill up XL boxes first, then L boxes, then M boxes, and finally S
